@@ -39,7 +39,7 @@ This project demonstrates state management, user input handling, formatting logi
 
 ### 1. Clone the Repository
 
-git clone https://github.com/zandernh/react-calculator.git
+git clone git@github.com:zandernh/react_calculator.git
 
 cd react-calculator
 
