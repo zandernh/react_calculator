@@ -3,13 +3,13 @@
 A clean, responsive calculator built with React and powered by a custom useReducer setup.
 This project demonstrates state management, user input handling, formatting logic, and component-based UI design — all wrapped in a sleek, gradient-themed interface.
 
-[🌐 Live Demo](https://netflix-clone-fhwh.onrender.com/)
+[🌐 Live Demo](calculatorapp4react.netlify.app/)
 
 --- 
 
 ## 📸 Screenshot
 
-![React Calculator Screenshot](screenshot.JPG)
+![React Calculator Screenshot](react_calculator_screenshot.JPG)
 
 ---
 
